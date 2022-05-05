@@ -17,6 +17,3 @@ You can find me on [![Twitter][1.1]][1] or [![Twitter][1.2]][2].
 
 [1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [1.2]: https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-20.png (LinkedIn icon)
-
-[1]: https://twitter.com/ales_mraz
-[2]: https://www.linkedin.com/in/alesmraz/
