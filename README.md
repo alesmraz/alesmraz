@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-🔭 I'm currently working on make client's logo bigger - just kidding. I'm frontend tech leader in company name Mallpay 💸 (Czechia). In free time I'm helping non-foundation companies with websites.
+🔭 I'm currently working on make client's logo bigger - just kidding. I'm frontend freelance dev (Czechia). In free time I'm helping non-foundation companies with websites.
 
-🌱 I’m currently learning rust, but is is a little pain.
-
-
-here is my non actual webpage: https://mraz.dev/ 🤷‍♂️
+🌱 I’m currently learning go, but is is a little pain.
 
 
 ## Technologies & tools
