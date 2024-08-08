@@ -2,7 +2,7 @@
 
 🔭 I'm currently working on make client's logo bigger - just kidding. I'm frontend freelance dev (Czechia). In free time I'm helping non-foundation companies with websites.
 
-🌱 I’m currently learning go, but is is a little pain.
+🌱 I'm currently learning go, but it is a little pain.
 
 
 ## Technologies & tools
